@@ -1,4 +1,4 @@
-# Javascript Coding Style
+# JavaScript Coding Style
 
 以下的內容大部分參考 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
