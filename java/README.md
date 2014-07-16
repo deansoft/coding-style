@@ -6,9 +6,9 @@
 
 以四個空白當作縮排的單位，不要使用 Tab
 
-### if, if-else, if else-if else statement
+### if/if-else/if else-if else 陳述 (statement)
 
-if-else 相關的 statement 應以下列方式寫成:
+if-else 相關的陳述，應以下列方式寫成:
 
     if (condition) {
         statements;
@@ -32,6 +32,12 @@ if-else 相關的 statement 應以下列方式寫成:
 
     if (condition)
         statements;
+
+### 修飾子 (Modifier)
+
+若使用到類別或成員變數方法的修飾子，應依照下列的順序來使用
+
+    public protected private abstract static final transient volatile synchronized native strictfp
 
 ## 命名
 
